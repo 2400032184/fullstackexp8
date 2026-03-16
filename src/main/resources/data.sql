@@ -1,0 +1,12 @@
+INSERT INTO products (name, category, price) VALUES ('Laptop', 'Electronics', 75000.00);
+INSERT INTO products (name, category, price) VALUES ('Mouse', 'Electronics', 500.00);
+INSERT INTO products (name, category, price) VALUES ('Keyboard', 'Electronics', 2000.00);
+INSERT INTO products (name, category, price) VALUES ('Monitor', 'Electronics', 15000.00);
+INSERT INTO products (name, category, price) VALUES ('T-Shirt', 'Clothing', 500.00);
+INSERT INTO products (name, category, price) VALUES ('Jeans', 'Clothing', 1500.00);
+INSERT INTO products (name, category, price) VALUES ('Shoes', 'Clothing', 3000.00);
+INSERT INTO products (name, category, price) VALUES ('Jacket', 'Clothing', 5000.00);
+INSERT INTO products (name, category, price) VALUES ('Novel', 'Books', 300.00);
+INSERT INTO products (name, category, price) VALUES ('Textbook', 'Books', 800.00);
+INSERT INTO products (name, category, price) VALUES ('Magazine', 'Books', 150.00);
+INSERT INTO products (name, category, price) VALUES ('Dictionary', 'Books', 1200.00);
